@@ -49,14 +49,12 @@ A full-stack web app for browsing and renting clothes online with automated inve
 
 - **Features:** Secure login, catalog filtering, rental booking & returns, admin dashboard, demo payment flow
 - **Tech:** PHP, JavaScript, HTML/CSS, MongoDB
-- 🔗 **Repo:** `https://github.com/YOUR_USERNAME/cloth-rental-system` *(Update this)*
 
 ### 2. Online Complaint Registration System
 A digital portal for citizens to file complaints and track resolution status in real time.
 
 - **Features:** Complaint submission, status tracking, admin resolution panel, category filtering
 - **Tech:** JavaScript, HTML/CSS, MongoDB, Node.js/Express
-- 🔗 **Repo:** `https://github.com/YOUR_USERNAME/complaint-system` *(Update this)*
 
 ---
 
